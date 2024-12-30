@@ -2,7 +2,7 @@
     "name": "Study Matrials",
     "version": "0.1.0",
     "private": true,
-    "author": "SS",
+    "author": "SS Group",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

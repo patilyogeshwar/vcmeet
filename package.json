@@ -2,7 +2,7 @@
     "name": "name",
     "version": "0.1.0",
     "private": true,
-    "author": "Alithemes",
+    "author": "SS",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

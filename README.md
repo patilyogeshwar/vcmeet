@@ -1,2 +1,2 @@
-# eduvalt
-# nextjs template by AliThemes
+# lms
+# nextjs template by LMS
